@@ -3,11 +3,9 @@ CIS440PersonalProject
 
 ###Advanced PHP - Creating Custom Images
 
-**Completed:**
+I found an interesting tutorial in a PHP/MYSQL developer's book I purchased for help with the Capstone project called "". It utilizes PHP and HTML to create a web-based quiz and then displays customized results onto an image that the user can view in several formats such as .rtf and .pdf. I customized the quiz text and the quiz to reflect SCRUM-based content for the CIS440 class. The business value of this functionality is similar to compliance tests that large companies have their employees take annually. I've attached screenshots to document the steps in the process. 
 
-I found an interesting tutorial in a PHP/MYSQL developer's book I purchased for help with the Capstone project called "". I customized the text and the quiz to reflect SCRUM-based content for the CIS 440 class. The business value of this functionality. I've attached screenshots to document the steps in the process. 
-
-
+**Index.html Steps:**
 
 1. In
 2. De
@@ -19,7 +17,7 @@ I found an interesting tutorial in a PHP/MYSQL developer's book I purchased for 
 5. All cu
 
 
-**To-Do List For Upcoming Sprint/Presentation:**
+**.php Steps:**
 
 1. CSS
 2. Inte
